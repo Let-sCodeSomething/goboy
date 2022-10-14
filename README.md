@@ -1,5 +1,8 @@
 # GoBoy
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Let-sCodeSomething/goboy)](https://goreportcard.com/report/github.com/Let-sCodeSomething/goboy)
+![version](https://img.shields.io/github/go-mod/go-version/Let-sCodeSomething/goboy)
+
 ⚠️**Currently, In Development**⚠️
 
 Game boy emulation with golang
